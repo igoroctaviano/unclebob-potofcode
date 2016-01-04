@@ -1,2 +1,4 @@
 # unclebob-potofcode
-Exercises and Solutions from Uncle Bob books.
+**Exercises and Solutions**
+<sub>*...from Uncle Bob books.</sub>
+
