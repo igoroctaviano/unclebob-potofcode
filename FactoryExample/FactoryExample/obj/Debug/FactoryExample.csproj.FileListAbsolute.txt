@@ -1,0 +1,2 @@
+C:\Users\Igor Octaviano\Documents\GitHub\monitoria-poo\FactoryExample\FactoryExample\bin\Debug\FactoryExample.exe.config
+C:\Users\Igor Octaviano\Documents\GitHub\unclebob-potofcode\FactoryExample\FactoryExample\bin\Debug\FactoryExample.exe.config
