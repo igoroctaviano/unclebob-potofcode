@@ -4,3 +4,6 @@ c:\users\igor octaviano\documents\visual studio 2015\Projects\StrategyPattern2\S
 c:\users\igor octaviano\documents\visual studio 2015\Projects\StrategyPattern2\StrategyPattern2\obj\Debug\StrategyPattern2.csprojResolveAssemblyReference.cache
 c:\users\igor octaviano\documents\visual studio 2015\Projects\StrategyPattern2\StrategyPattern2\obj\Debug\StrategyPattern2.exe
 c:\users\igor octaviano\documents\visual studio 2015\Projects\StrategyPattern2\StrategyPattern2\obj\Debug\StrategyPattern2.pdb
+C:\Users\Igor Octaviano\Documents\GitHub\unclebob-potofcode\StrategyPattern2\StrategyPattern2\bin\Debug\StrategyPattern2.exe.config
+C:\Users\Igor Octaviano\Documents\GitHub\unclebob-potofcode\StrategyPattern2\StrategyPattern2\obj\Debug\StrategyPattern2.exe
+C:\Users\Igor Octaviano\Documents\GitHub\unclebob-potofcode\StrategyPattern2\StrategyPattern2\obj\Debug\StrategyPattern2.pdb

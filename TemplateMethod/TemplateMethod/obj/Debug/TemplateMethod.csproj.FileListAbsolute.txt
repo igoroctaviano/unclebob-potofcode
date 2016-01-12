@@ -4,3 +4,6 @@ c:\users\igor octaviano\documents\visual studio 2015\Projects\TemplateMethod\Tem
 c:\users\igor octaviano\documents\visual studio 2015\Projects\TemplateMethod\TemplateMethod\bin\Debug\TemplateMethod.pdb
 c:\users\igor octaviano\documents\visual studio 2015\Projects\TemplateMethod\TemplateMethod\obj\Debug\TemplateMethod.exe
 c:\users\igor octaviano\documents\visual studio 2015\Projects\TemplateMethod\TemplateMethod\obj\Debug\TemplateMethod.pdb
+C:\Users\Igor Octaviano\Documents\GitHub\unclebob-potofcode\TemplateMethod\TemplateMethod\bin\Debug\TemplateMethod.exe.config
+C:\Users\Igor Octaviano\Documents\GitHub\unclebob-potofcode\TemplateMethod\TemplateMethod\obj\Debug\TemplateMethod.exe
+C:\Users\Igor Octaviano\Documents\GitHub\unclebob-potofcode\TemplateMethod\TemplateMethod\obj\Debug\TemplateMethod.pdb
