@@ -1,5 +1,5 @@
 # Uncle Bob's Pot of Code
-Exercícios e Soluções dos livros do Robert Cecil Martin, também conhecido como "Uncle Bob".
+*Exercícios e Soluções dos livros do Robert Cecil Martin, também conhecido como "Uncle Bob".*
 
 Robert C. Martin, conhecido como Tio Bob, tem sido um profissional em software desde 1970 e consultor internacional de software desde 1990. Nos últimos 40 anos, ele já trabalhou em várias capacidades, literalmente centenas de projetos de software. Em 2001, ele iniciou a reunião do grupo que criou o Desenvolvimento Ágil de Software a partir de técnicas de Programação Extrema (Extreme Programming) e serviu como o primeiro presidente da Agile Alliance. Ele também é um dos principais membros do Worldwide Software Craftsmanship Movement - Clean Code.
 
